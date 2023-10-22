@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Muhammad Ameer Hamza Khan,<br> a passionate frontend web developer with a keen interest in crafting seamless user experiences<br> and intuitive interfaces. I'm currently diving deep <br>into the world of MERN stack<br> (MongoDB, Express.js, React, Node.js)<br> to build robust and dynamic web applications. <br>My journey in the tech world has been nothing short of exciting, and I thrive on the challenges that coding presents.
+👋 Hi there! I'm Muhammad Ameer Hamza Khan,<br> a passionate frontend web developer with a keen interest in crafting seamless user experiences<br> and intuitive interfaces. I'm currently diving deep into the world of MERN stack (MongoDB, Express.js, React, Node.js) to build robust and dynamic web applications. <br>My journey in the tech world has been nothing short of exciting, and I thrive on the challenges that coding presents.
 
 
 ## 🌐 Socials:
